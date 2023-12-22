@@ -20,3 +20,4 @@ sân thượng,
 5. meal: đồ ăn với đồ uống.
 
 6. tính từ, các từ không thuộc các loại trên, từ bị lỗi
+hoặc 1 từ mà có 4 hoặc 5 nhãn
