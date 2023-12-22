@@ -1,22 +1,22 @@
-location:
+1. location:
 Các địa điểm lớn xung quanh khách sạn: cầu, đường, khu thương mại,
-khu vui chơi,...
+khu vui chơi, gym, pool, shop,...
 Từ chỉ vị trí của khách sạn: center, city, downtown,...
 Cảnh quang xung quanh khách sạn: núi, đồi, đồng cỏ, bãi biển,...
 
-service:
-Cái gì nhân viên khách sạn phục vụ cho mình thì bỏ 
-vào đây
+2. service:
+Dịch vụ có nhân viên khách sạn phục vụ cho mình thì bỏ vào đây
 
-room:
+3. room:
 Đồ nội thất có trong phòng: giường, ghế, mền, tủ...
 Loại phòng: family, couple, queen, suite,...
-concept (?)
+Bao gồm cả các đồ nội thất của phòng tắm như sink, bathtub,....
 
-facility & amenity:
+4. facility & amenity:
 Vật dụng tiêu hao: khăn tắm, xà phòng, bàn chải, lược, dầu gội,...
-Cơ sở vật chất trong phạm vi khách sạn: pool, gym, bar, restaurant,...
+Cơ sở vật chất trong phạm vi khách sạn: như đồ ở sảnh chờ, hành lang,
+sân thượng,
 
-meal: đồ ăn với đồ uống.
+5. meal: đồ ăn với đồ uống.
 
-7. tính từ, các từ không thuộc các loại trên, từ bị lỗi
+6. tính từ, các từ không thuộc các loại trên, từ bị lỗi
