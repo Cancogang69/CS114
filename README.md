@@ -1,7 +1,6 @@
 # CS114
 
 ## Mô tả bài toán
-### Mô tả bài toán
 - Gợi ý khách sạn dựa vào các thông tin mà người dùng nhập vào khi tìm kiếm khách sạn.
 - Ngữ cảnh ứng dụng: được sử dụng trong các trang web đặt khách sạn như booking.com cho những người dùng mới khi họ lần đầu sử dụng các trang web này.
 
@@ -12,8 +11,7 @@
   - Loại phòng: 'standard', 'classic', 'club', 'junior', 'superior', 'deluxe', 'suite', 'luxury'.
   - Thời gian ở lại khách sạn: 1, 2, 3,... ngày.
   - Số người ở: 'solo', 'couple', 'group', 'family'.
-- Người dùng nhập vào một đoạn mô tả các đặc điểm mà họ muốn khách sạn có.
-- Ví dụ: I want a hotel with great sight.
+- Người dùng nhập vào một đoạn mô tả các đặc điểm mà họ muốn khách sạn có. Ví dụ: I want a hotel with great sight.
 
 ### Output
 Danh sách 10 khách sạn xếp theo thứ tự giảm dần về độ phù hợp với yêu cầu của khách hàng.
