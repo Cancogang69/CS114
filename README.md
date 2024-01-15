@@ -1,5 +1,9 @@
-# CS114
-
+# Đồ án môn Máy học (CS114) 
+- Đề tài: Hotel Recommendation
+- Thành viên nhóm:
+  - Nguyễn Đức Tuệ - 21521644
+  - Trần Nhật Anh - 21521841
+  
 ## Mô tả bài toán
 - Gợi ý khách sạn dựa vào các thông tin mà người dùng nhập vào khi tìm kiếm khách sạn.
 - Ngữ cảnh ứng dụng: được sử dụng trong các trang web đặt khách sạn như booking.com cho những người dùng mới khi họ lần đầu sử dụng các trang web này.
