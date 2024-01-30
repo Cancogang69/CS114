@@ -5,21 +5,19 @@
   - Trần Nhật Anh - 21521841
   
 ## Mô tả bài toán
-- Gợi ý khách sạn dựa vào các thông tin mà người dùng nhập vào khi tìm kiếm khách sạn.
-- Ngữ cảnh ứng dụng: được sử dụng trong các trang web đặt khách sạn như booking.com cho những người dùng mới khi họ lần đầu sử dụng các trang web này.
+<img width="454" alt="image" src="https://github.com/Cancogang69/CS114/assets/100010336/0c90edf3-a21e-45e6-97ac-3d7b1f20cedb">
 
-### Input
-- Người dùng chọn các thông tin về chuyến đi:
-  - Loại chuyến đi: 'business trip', 'leisure trip'.
-  - Kích thước phòng: 'single', 'double', 'twin', 'large', 'king', 'queen'.
-  - Loại phòng: 'standard', 'classic', 'club', 'junior', 'superior', 'deluxe', 'suite', 'luxury'.
-  - Thời gian ở lại khách sạn: 1, 2, 3,... ngày.
-  - Số người ở: 'solo', 'couple', 'group', 'family'.
-- Người dùng nhập vào một đoạn mô tả các đặc điểm mà họ muốn khách sạn có. Ví dụ: I want a hotel with great sight.
+- Mục tiêu của đồ án là khi người dùng nhập vào một đoạn mô tả các đặc điểm mà họ muốn khách sạn có, hệ thống sẽ đưa ra một danh sách các khách sạn được gợi ý dựa vào các thông tin mà người dùng nhập.
+- Ngữ cảnh ứng dụng: được sử dụng trong các trang web đặt phòng khách sạn như booking.com, gợi ý khách sạn cho các khách hàng mới sử dụng trang web dựa trên các đặc điểm cụ thể của các khách sạn. Ví dụ, khi người dùng muốn đặt khách sạn ở các khu du lịch biển và muốn khách sạn phải có view biển, nếu sử dụng bộ lọc thì chỉ thể hiện khách sạn có hay không có view biển, trong khi đó hệ thống gợi ý mà nhóm đề xuất sẽ gợi ý dựa trên các thông tin mà khách hàng đã ở đó để lại, như view biển có đẹp hay không.
+-	Bài toán Máy học: bài toán dự đoán điểm mà khách hàng sẽ chấm cho một khách sạn.
 
-### Output
-Danh sách 10 khách sạn xếp theo thứ tự giảm dần về độ phù hợp với yêu cầu của khách hàng.
-![image](https://github.com/Cancogang69/CS114/assets/90518328/cf744f89-1cbb-421a-b9be-78b80051b9d0)
+### Input của bài toán Máy học
+-	Điểm đặc trưng của các mục Location, Service, Room, Facility & Amenity, Meal được trích xuất từ câu mà khách hàng nhập vào.
+-	Điểm đặc trưng của các mục Location, Service, Room, Facility & Amenity, Meal của khách sạn được trích xuất từ các bình luận mà các khách hàng đã từng ở trước đó để lại 
+-	Điểm trung bình của khách sạn (cột Average_Score trong bộ dữ liệu).
+
+### Output của bài toán Máy học
+-	Điểm mà mô hình Máy học dự đoán khách hàng sẽ chấm cho một khách sạn.
 
 ### Ràng buộc
 - Câu mô tả mà người dùng nhập vào được viết hoàn toàn bằng tiếng Anh.
